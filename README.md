@@ -1,5 +1,7 @@
 # net-http-debug
 
+Implementation was copied from @kaiwren's [script](https://gist.github.com/kaiwren/591601).
+
 [![Gem Version](https://badge.fury.io/rb/net-http-debug.svg)](https://badge.fury.io/rb/net-http-debug)
 
 `net-http-debug` is a simple Ruby gem that provides an easy way to enable and disable HTTP debugging for Net::HTTP in Rails development environment. It allows you to quickly toggle debug output for all Net::HTTP requests, which can be incredibly useful when troubleshooting API integrations or network-related issues.
